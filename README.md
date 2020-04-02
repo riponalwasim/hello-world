@@ -1,2 +1,3 @@
 # hello-world
-starting with github
+Hi,
+I'm Ripon Al Wasim from Dhaka, Bangladesh.
